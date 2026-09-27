@@ -2,7 +2,7 @@
 
 ### 原案
 
-![524の原案](images/524-origin.png)
+<img src="images/524-origin.png" alt="524の原案" width="256">
 
 ### プロジェクトの考え
 
