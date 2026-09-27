@@ -1,4 +1,4 @@
-# 524 Open Character Project（仮） / 524 Open Character (working title)
+# 524オープンキャラクタープロジェクト（仮）
 
 [日本語](#日本語) | [English](#english)
 
