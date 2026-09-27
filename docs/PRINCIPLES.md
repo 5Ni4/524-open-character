@@ -1,5 +1,7 @@
 # Project principles (draft)
 
+[日本語](PRINCIPLES.ja.md) | English
+
 ## Many interpretations can coexist
 
 524 can have many interpretations, alternate settings, and creative branches. The project does not need to reduce them all to one correct version.
