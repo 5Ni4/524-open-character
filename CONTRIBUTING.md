@@ -1,5 +1,7 @@
 # Contributing to the 524 project
 
+[日本語](CONTRIBUTING.ja.md) | English
+
 Thanks for helping shape the project. Alternative interpretations and settings are welcome; an idea does not need to match the current official interpretation to be discussed.
 
 ## While the project is being set up
