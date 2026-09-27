@@ -1,5 +1,7 @@
 # Licensing and permissions (discussion draft)
 
+[日本語](LICENSING.ja.md) | English
+
 This document records the intended direction. It is not the final license or a blanket grant of permission.
 
 ## 524 official materials
