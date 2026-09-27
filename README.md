@@ -1,17 +1,47 @@
-# 524 Open Character (working title)
+# 524 Open Character Project（仮） / 524 Open Character (working title)
 
-This is the public planning repository for an open-character project based on 524.
-The repository name and project name are temporary and can change.
+[日本語](#日本語) | [English](#english)
 
-## The idea
+## 日本語
 
-- Many interpretations, alternate settings, and branches of 524 are welcome.
-- Some community ideas may be selected and marked as official by R-524.
-- Reuse of 524's official character materials is intended to be broadly open, including AI use. The exact license is still being decided.
-- Each fanwork remains its creator's work. Reusing another creator's fanwork requires that creator's permission, including reposting, editing, official adoption, and AI use.
+524をもとにした「オープンキャラクター」プロジェクトの公開企画リポジトリです。リポジトリ名とプロジェクト名は仮称で、今後変更される可能性があります。
 
-## Current status
+### プロジェクトの考え
+
+- 524について、さまざまな解釈、別設定、創作上の分岐を歓迎します。
+- コミュニティから出たアイデアの一部を、R-524が公式設定や公式素材として選ぶことがあります。公式に採用されたものは、プロジェクト内で明示します。
+- 524の公式キャラクター素材は、AI利用を含め幅広く使える形にすることを目指しています。ただし、具体的なライセンスはまだ決まっていません。
+- ファン作品は、それぞれの作者の作品です。他の人のファン作品を転載・編集・公式設定に採用・AIに利用する場合は、作者の許可が必要です。
+
+### 現在の状況
+
+このリポジトリは公開中の草案です。最終的なライセンスや作品の応募方法は、まだ決まっていません。素材を利用する前に、その素材に付いているライセンスを確認してください。SNSへの投稿、ハッシュタグ、Issue（課題・提案）、アイデアの提案だけでは、ファン作品の利用許可にはならず、公式採用も意味しません。
+
+### 詳細
+
+- [プロジェクトの原則（日本語）](docs/PRINCIPLES.ja.md) / [English](docs/PRINCIPLES.md)
+- [ライセンスと許可について（日本語）](docs/LICENSING.ja.md) / [English](docs/LICENSING.md)
+- [未決定の事項（日本語）](docs/DECISIONS.ja.md) / [English](docs/DECISIONS.md)
+- [参加方法（日本語）](CONTRIBUTING.ja.md) / [English](CONTRIBUTING.md)
+
+## English
+
+This is the public planning repository for an open-character project based on 524. The repository name and project name are temporary and may change.
+
+### The idea
+
+- Many interpretations, alternate settings, and creative branches of 524 are welcome.
+- R-524 may select some community ideas as official settings or materials. The project will clearly mark what has been officially adopted.
+- The project intends to make 524's official character materials broadly reusable, including for AI use. The exact license has not been decided yet.
+- Each fanwork remains its creator's work. Reposting, editing, officially adopting, or using another creator's fanwork with AI requires that creator's permission.
+
+### Current status
 
 This repository is a public working draft. The final license and submission process are not in force yet. Check the license attached to each asset before reusing it. A public post, hashtag, issue, or suggestion does not by itself grant permission to reuse a fanwork or make it official.
 
-See [Project principles](docs/PRINCIPLES.md), [Licensing notes](docs/LICENSING.md), and [Open decisions](docs/DECISIONS.md).
+### More details
+
+- [Project principles](docs/PRINCIPLES.md) / [日本語](docs/PRINCIPLES.ja.md)
+- [Licensing notes](docs/LICENSING.md) / [日本語](docs/LICENSING.ja.md)
+- [Open decisions](docs/DECISIONS.md) / [日本語](docs/DECISIONS.ja.md)
+- [Contributing](CONTRIBUTING.md) / [日本語](CONTRIBUTING.ja.md)
