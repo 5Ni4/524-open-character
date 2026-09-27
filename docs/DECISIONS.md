@@ -1,5 +1,7 @@
 # Open decisions
 
+[日本語](DECISIONS.ja.md) | English
+
 ## Current direction
 
 - Welcome many interpretations and alternate settings for 524.
