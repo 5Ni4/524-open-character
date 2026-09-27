@@ -17,6 +17,17 @@
 
 このリポジトリは公開中の草案です。最終的なライセンスや作品の応募方法は、まだ決まっていません。素材を利用する前に、その素材に付いているライセンスを確認してください。SNSへの投稿、ハッシュタグ、Issue（課題・提案）、アイデアの提案だけでは、ファン作品の利用許可にはならず、公式採用も意味しません。
 
+### 公式ハッシュタグ（X）
+
+524に関する投稿に使える公式ハッシュタグです。
+
+- [#入退社芸人](https://x.com/hashtag/%E5%85%A5%E9%80%80%E7%A4%BE%E8%8A%B8%E4%BA%BA?src=hashtag_click) — 中の人ネタ専用です。524本人の発言や作中設定として扱わないでください。
+- [#入退社素材規約524条](https://x.com/hashtag/%E5%85%A5%E9%80%80%E7%A4%BE%E7%B4%A0%E6%9D%90%E8%A6%8F%E7%B4%84524%E6%9D%A1?src=hashtag_click)
+- [#524概念擬人化ガチャ](https://x.com/hashtag/524%E6%A6%82%E5%BF%B5%E6%93%AC%E4%BA%BA%E5%8C%96%E3%82%AC%E3%83%81%E3%83%A3?src=hashtag_click)
+- [#おやすみ524](https://x.com/hashtag/%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF524?src=hashtag_click)
+- [#524グッズ思い付き](https://x.com/hashtag/524%E3%82%B0%E3%83%83%E3%82%BA%E6%80%9D%E3%81%84%E4%BB%98%E3%81%8D?src=hashtag_click)
+- [#524を探せ](https://x.com/hashtag/524%E3%82%92%E6%8E%A2%E3%81%9B?src=hashtag_click)
+
 ### 詳細
 
 - [プロジェクトの原則（日本語）](docs/PRINCIPLES.ja.md) / [English](docs/PRINCIPLES.md)
@@ -38,6 +49,17 @@ This is the public planning repository for an open-character project based on 52
 ### Current status
 
 This repository is a public working draft. The final license and submission process are not in force yet. Check the license attached to each asset before reusing it. A public post, hashtag, issue, or suggestion does not by itself grant permission to reuse a fanwork or make it official.
+
+### Official hashtags (X)
+
+These official hashtags can be used for posts about 524.
+
+- [#入退社芸人](https://x.com/hashtag/%E5%85%A5%E9%80%80%E7%A4%BE%E8%8A%B8%E4%BA%BA?src=hashtag_click) — For behind-the-scenes jokes only; do not present it as 524 speaking in character or as part of the story's canon.
+- [#入退社素材規約524条](https://x.com/hashtag/%E5%85%A5%E9%80%80%E7%A4%BE%E7%B4%A0%E6%9D%90%E8%A6%8F%E7%B4%84524%E6%9D%A1?src=hashtag_click)
+- [#524概念擬人化ガチャ](https://x.com/hashtag/524%E6%A6%82%E5%BF%B5%E6%93%AC%E4%BA%BA%E5%8C%96%E3%82%AC%E3%83%81%E3%83%A3?src=hashtag_click)
+- [#おやすみ524](https://x.com/hashtag/%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF524?src=hashtag_click)
+- [#524グッズ思い付き](https://x.com/hashtag/524%E3%82%B0%E3%83%83%E3%82%BA%E6%80%9D%E3%81%84%E4%BB%98%E3%81%8D?src=hashtag_click)
+- [#524を探せ](https://x.com/hashtag/524%E3%82%92%E6%8E%A2%E3%81%9B?src=hashtag_click)
 
 ### More details
 
