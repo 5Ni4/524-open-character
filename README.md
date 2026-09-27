@@ -22,6 +22,10 @@
 - [#524グッズ思い付き](https://x.com/hashtag/524%E3%82%B0%E3%83%83%E3%82%BA%E6%80%9D%E3%81%84%E4%BB%98%E3%81%8D?src=hashtag_click)
 - [#524を探せ](https://x.com/hashtag/524%E3%82%92%E6%8E%A2%E3%81%9B?src=hashtag_click)
 
+#### キャンペーンハッシュタグ
+
+- [#524の概念とすごい8月](https://x.com/hashtag/524%E3%81%AE%E6%A6%82%E5%BF%B5%E3%81%A8%E3%81%99%E3%81%94%E3%81%998%E6%9C%88?src=hashtag_click)
+
 ### 詳細
 
 - [プロジェクトの原則](docs/PRINCIPLES.md)
