@@ -19,7 +19,7 @@
 
 524に関する投稿に使える公式ハッシュタグです。
 
-- [#入退社芸人](https://x.com/hashtag/%E5%85%A5%E9%80%80%E7%A4%BE%E8%8A%B8%E4%BA%BA?src=hashtag_click) — 中の人ネタ専用です。524本人の発言や作中設定として扱わないでください。
+- [#入退社芸人](https://x.com/hashtag/%E5%85%A5%E9%80%80%E7%A4%BE%E8%8A%B8%E4%BA%BA?src=hashtag_click) — 中の人ネタなので注意
 - [#入退社素材規約524条](https://x.com/hashtag/%E5%85%A5%E9%80%80%E7%A4%BE%E7%B4%A0%E6%9D%90%E8%A6%8F%E7%B4%84524%E6%9D%A1?src=hashtag_click)
 - [#524概念擬人化ガチャ](https://x.com/hashtag/524%E6%A6%82%E5%BF%B5%E6%93%AC%E4%BA%BA%E5%8C%96%E3%82%AC%E3%83%81%E3%83%A3?src=hashtag_click)
 - [#おやすみ524](https://x.com/hashtag/%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF524?src=hashtag_click)
