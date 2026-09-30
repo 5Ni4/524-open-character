@@ -18,6 +18,13 @@
 
 - [みんなの524創作](https://524-open-character-project.pages.dev/)
 
+### 作者の作品
+
+作者（R-524）が制作したものです。
+
+- [524のお友達メーカー](https://friends-of-524.pages.dev/)
+- [#524のお友達メーカー](https://x.com/hashtag/524%E3%81%AE%E3%81%8A%E5%8F%8B%E9%81%94%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC?src=hashtag_click)
+
 ### 公式ハッシュタグ（X）
 
 524に関する投稿に使える公式ハッシュタグです。
