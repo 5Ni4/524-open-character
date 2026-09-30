@@ -16,7 +16,7 @@
 
 524の創作をXの投稿リンクから紹介するウェブサイトを準備しています。作品の掲載受付は、サイトと投稿フォームの設定が整ってから始めます。
 
-- [みんなの524創作](https://524-open-character-project.pages.dev/)
+- [524のひみつ基地](https://524-open-character-project.pages.dev/)
 
 ### 作者の作品
 
