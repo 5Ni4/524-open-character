@@ -40,10 +40,8 @@ button { color: inherit; }
 .hero::before { position: absolute; top: -154px; right: -84px; width: 410px; height: 410px; border: 1px solid rgba(255,255,255,.27); border-radius: 50%; content: ""; }
 .hero::after { position: absolute; right: 42%; bottom: -235px; width: 470px; height: 470px; border: 1px solid rgba(255,255,255,.22); border-radius: 50%; content: ""; }
 .hero-copy { position: relative; z-index: 2; max-width: 590px; }
-.eyebrow, .section-kicker { margin: 0 0 14px; color: var(--cyan-dark); font-family: "DM Sans", "Noto Sans JP", sans-serif; font-size: 11px; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
-.eyebrow { display: inline-flex; align-items: center; gap: 9px; padding: 8px 13px; border: 1px solid rgba(23,56,59,.2); border-radius: 99px; color: var(--ink); background: rgba(255,255,255,.65); letter-spacing: .02em; text-transform: none; }
-.eyebrow-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--orange); box-shadow: 0 0 0 4px rgba(255,124,61,.15); }
-.hero h1 { margin: 25px 0 21px; font-size: clamp(42px, 6.1vw, 76px); font-weight: 900; line-height: 1.24; letter-spacing: -.075em; }
+.section-kicker { margin: 0 0 14px; color: var(--cyan-dark); font-family: "DM Sans", "Noto Sans JP", sans-serif; font-size: 11px; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
+.hero h1 { margin: 0 0 21px; font-size: clamp(42px, 6.1vw, 76px); font-weight: 900; line-height: 1.24; letter-spacing: -.075em; }
 .hero h1 span { text-decoration: underline; text-decoration-thickness: 7px; text-decoration-color: var(--yellow); text-underline-offset: 9px; }
 .hero-intro { margin: 0; font-size: 15px; font-weight: 600; line-height: 2.05; }
 .hero-actions { display: flex; align-items: center; gap: 24px; margin-top: 30px; }
@@ -202,7 +200,7 @@ button { color: inherit; }
   .main-nav .nav-submit { gap: 4px; padding: 8px; }
   .main-nav a:nth-child(2) { display: none; }
   .hero { display: block; width: calc(100% - 24px); min-height: 0; margin: 5px auto 48px; padding: 38px 25px 27px; border-radius: 25px; }
-  .hero h1 { margin: 22px 0 17px; font-size: clamp(42px, 11vw, 60px); }
+  .hero h1 { margin: 0 0 17px; font-size: clamp(42px, 11vw, 60px); }
   .hero-intro { font-size: 12px; }
   .desktop-break { display: none; }
   .hero-actions { align-items: flex-start; flex-direction: column; gap: 15px; margin-top: 22px; }
