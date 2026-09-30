@@ -28,6 +28,7 @@ button { color: inherit; }
 .site-header { position: relative; z-index: 5; display: flex; align-items: center; justify-content: space-between; width: min(1180px, calc(100% - 48px)); height: 82px; margin: 0 auto; }
 .brand, .footer-brand { display: inline-flex; align-items: center; gap: 11px; text-decoration: none; font-weight: 800; }
 .brand-mark { display: grid; width: 43px; height: 43px; place-items: center; border: 2px solid var(--ink); border-radius: 15px 13px 16px 12px; color: var(--orange); background: var(--yellow); font-family: "DM Sans", sans-serif; font-size: 17px; font-weight: 900; letter-spacing: -1.5px; transform: rotate(-5deg); }
+.brand-icon { display: block; width: 43px; height: 43px; flex: 0 0 auto; border: 1px solid var(--line); border-radius: 12px; object-fit: cover; }
 .brand-name { font-size: 14px; letter-spacing: .03em; }
 .main-nav { display: flex; align-items: center; gap: 34px; font-size: 13px; font-weight: 700; }
 .main-nav a { text-decoration: none; transition: color .18s ease; }
@@ -195,6 +196,7 @@ button { color: inherit; }
 @media (max-width: 620px) {
   .site-header { width: calc(100% - 32px); height: 67px; }
   .brand-mark { width: 37px; height: 37px; font-size: 15px; }
+  .brand-icon { width: 37px; height: 37px; border-radius: 10px; }
   .brand-name { font-size: 11px; }
   .main-nav { gap: 9px; font-size: 9px; }
   .main-nav .nav-submit { gap: 4px; padding: 8px; }
