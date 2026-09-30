@@ -147,7 +147,10 @@ button { color: inherit; }
 .about-copy li { position: relative; padding-left: 20px; }
 .about-copy li::before { position: absolute; top: .72em; left: 0; width: 8px; height: 8px; border-radius: 50%; background: var(--orange); content: ""; }
 .about-copy a { color: var(--yellow); font-weight: 800; text-underline-offset: 3px; }
-.about-credit { margin: 0; font-size: 11px; }
+.about-credit { margin: 0 0 10px; font-size: 11px; }
+.about-author-links { display: flex; flex-wrap: wrap; gap: 8px; }
+.about-author-links a { display: inline-flex; align-items: center; min-height: 36px; padding: 0 13px; border: 1px solid rgba(255,255,255,.32); border-radius: 99px; color: var(--yellow); font-size: 10px; text-decoration: none; transition: color .18s ease, background .18s ease, border-color .18s ease; }
+.about-author-links a:hover, .about-author-links a:focus-visible { border-color: var(--yellow); color: var(--ink); background: var(--yellow); }
 
 .submit-section { padding-top: 84px; padding-bottom: 88px; }
 .submit-card { display: grid; grid-template-columns: .86fr 1.14fr; gap: 8%; padding: clamp(23px, 5vw, 52px); border: 1px solid var(--line); border-radius: 27px; background: #f4eccf; }
