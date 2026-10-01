@@ -76,6 +76,8 @@ button { color: inherit; }
 .project-card--blue { background: #d9f4f5; }
 .project-card--yellow { background: #fff0a4; }
 .project-card--lilac { background: #e7e3ff; }
+.project-card--peach { background: #ffe3d6; }
+.project-card--mint { background: #dff1db; }
 .works-section { padding: 8px 0 95px; }
 .section-heading { display: flex; align-items: flex-end; justify-content: space-between; gap: 24px; margin-bottom: 29px; }
 .section-kicker { margin-bottom: 8px; }
