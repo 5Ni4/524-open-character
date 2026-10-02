@@ -157,9 +157,9 @@ button { color: inherit; }
 .about-author-links a:hover, .about-author-links a:focus-visible { border-color: var(--yellow); color: var(--ink); background: var(--yellow); }
 
 .submit-section { padding-top: 84px; padding-bottom: 88px; }
-.submit-card { display: grid; grid-template-columns: .86fr 1.14fr; gap: 8%; padding: clamp(23px, 5vw, 52px); border: 1px solid var(--line); border-radius: 27px; background: #f4eccf; }
+.submit-card { display: grid; grid-template-columns: 1.25fr .75fr; align-items: center; gap: 8%; padding: clamp(23px, 5vw, 52px); border: 1px solid var(--line); border-radius: 27px; background: #f4eccf; }
 .submit-copy .section-kicker { color: var(--cyan-dark); }
-.submit-copy h2 { font-size: clamp(29px, 3.5vw, 43px); }
+.submit-copy h2 { font-size: clamp(27px, 3.1vw, 40px); }
 .submit-copy > p:not(.section-kicker) { color: #53686a; font-size: 12px; line-height: 1.9; }
 .submit-small { margin-top: 22px; padding-top: 15px; border-top: 1px solid rgba(23,56,59,.17); font-size: 10px !important; }
 .submit-link-panel { display: flex; width: min(100%, 390px); flex-direction: column; align-items: center; justify-self: center; justify-content: center; gap: 16px; padding: 0; border: 0; border-radius: 0; background: transparent; text-align: center; }
