@@ -286,7 +286,7 @@ loadMoreButton.addEventListener("click", () => {
   if (!state.loading && state.offset < state.totalCount) fetchPage(state.offset);
 });
 
-form.addEventListener("submit", async (event) => {
+form?.addEventListener("submit", async (event) => {
   event.preventDefault();
   if (!form.reportValidity()) return;
   if (!state.turnstileToken) {
@@ -330,5 +330,5 @@ form.addEventListener("submit", async (event) => {
   }
 });
 
-readConfig();
+if (form) readConfig();
 fetchPage();

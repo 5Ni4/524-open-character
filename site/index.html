@@ -259,42 +259,20 @@
             <p>作品のX投稿リンクを送ってください。確認後、作品一覧に掲載します。画像はXの投稿を埋め込んで表示します。</p>
             <p class="submit-small">投稿は公開アカウントのものに限ります。掲載後の取り下げは、いつでも相談できます。</p>
           </div>
-          <form class="submit-form" id="submission-form">
-            <label class="field-label" for="post-url">Xの投稿URL <span class="required-mark">必須</span></label>
-            <input id="post-url" name="postUrl" type="url" placeholder="https://x.com/ユーザー名/status/..." required autocomplete="url" />
-            <p class="field-hint">作品画像が含まれている投稿を指定してください。</p>
-
-            <div class="field-row">
-              <div class="field-group">
-                <label class="field-label" for="creator-name">作者名 <span class="optional-mark">任意</span></label>
-                <input id="creator-name" name="creatorName" type="text" maxlength="80" placeholder="表示したい名前" autocomplete="nickname" />
-              </div>
-              <div class="field-group">
-                <label class="field-label" for="creator-url">XプロフィールURL <span class="optional-mark">任意</span></label>
-                <input id="creator-url" name="creatorUrl" type="url" maxlength="300" placeholder="https://x.com/ユーザー名" autocomplete="url" />
-              </div>
-            </div>
-
-            <label class="field-label" for="category">作品の種類 <span class="required-mark">必須</span></label>
-            <select id="category" name="category" required>
-              <option value="" selected disabled>選んでください</option>
-              <option>イラスト・画像</option>
-              <option>設定・アイデア</option>
-              <option>グッズ</option>
-              <option>写真・実物</option>
-              <option>その他</option>
-            </select>
-
-            <label class="field-label" for="comment">作品についてひとこと <span class="optional-mark">任意</span></label>
-            <textarea id="comment" name="comment" rows="3" maxlength="300" placeholder="紹介文や補足があればどうぞ"></textarea>
-
-            <label class="consent-check"><input id="consent" name="consent" type="checkbox" required /><span>私はこの作品の作者本人です。または、作者からこのサイトで紹介する許可を得ています。作品の権利は作者に帰属することを確認しました。</span></label>
-            <div class="honeypot" aria-hidden="true"><label for="website">この欄は入力しないでください</label><input id="website" name="website" type="text" tabindex="-1" autocomplete="off" /></div>
-            <div id="turnstile-widget" class="turnstile-widget" aria-label="スパム防止確認"></div>
-            <button class="button button-primary submit-button" id="submit-button" type="submit" disabled>掲載を申し込む <span aria-hidden="true">↗</span></button>
-            <p class="form-status" id="form-status" role="status" aria-live="polite">投稿受付の準備中です。</p>
-            <p class="privacy-note">メールアドレスは集めません。入力内容は掲載確認のために使います。</p>
-          </form>
+          <div class="submit-embed">
+            <iframe
+              class="submit-embed-frame"
+              src="https://docs.google.com/forms/d/e/1FAIpQLScec25kl89inuHWR14XO9As3jUtGnJlNSGd4OKCPByAnQi8dw/viewform?embedded=true"
+              title="524作品の掲載申請フォーム"
+              width="640"
+              height="1600"
+              loading="lazy"
+              frameborder="0"
+              marginheight="0"
+              marginwidth="0"
+            >読み込んでいます…</iframe>
+            <p class="submit-embed-fallback"><a href="https://docs.google.com/forms/d/e/1FAIpQLScec25kl89inuHWR14XO9As3jUtGnJlNSGd4OKCPByAnQi8dw/viewform" target="_blank" rel="noopener noreferrer">フォームが表示されない場合はこちらから回答できます ↗</a></p>
+          </div>
         </div>
       </section>
     </main>
